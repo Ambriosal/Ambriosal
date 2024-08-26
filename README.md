@@ -1,16 +1,28 @@
-## Hi there 👋
+<!-- **Ambriosal/Ambriosal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<!--
-**Ambriosal/Ambriosal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Welcome! I'm Osa ✨ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a software eng student with a minor in Neuroscience, based in Ontario, Canada. I'm passionate about cybersecurity, game development, and exploring how technology intersects with the human brain. When I'm not coding, you can find me playing video games 🎮 or doing yoga 🧘‍♀️.
+
+
+## Goals
+These are some of my goals I will complete before the end of 2024!
+- Land a Summer 2025 internship
+- Complete a project
+- Start my cybersecurity certification training
+- Hold a handstand (for more than 10 seconds!)
+- Expand my network and socialize more
+- Buy a gaming monitor
+
+
+## Current Projects 🔭
+- **[Flow Free Clone]**: A Java-based puzzle game with multiple levels and modes.
+- **[Position Perfect]**: An algorthim-driven Guess the Number game. Whoever can guess the opponent's number first wins!
+- **[Portfolio Website]**: Currently creating a personal website.
+
+## Fun Facts
+- I'm a huge fan of the Legend of Zelda
+
+## 📫 Let's Connect!
+- **[LinkedIn](https://www.linkedin.com/in/osamede-ig/)**
