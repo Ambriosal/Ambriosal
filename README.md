@@ -9,13 +9,10 @@ Fun fact: I'm a huge of fan of the Legend of Zelda!
 
 ## Goals
 These are some of my goals I will complete before the end of 2024!
-- Land a Summer 2025 internship
-- Complete a project
-- Start my cybersecurity certification training
+- Complete another project
 - Hold a handstand (for more than 10 seconds!)
-- Expand my network and socialize more
-- Buy a gaming monitor
-
+- Land a W26 and S26 internship!
+- Upgrade my PC parts... I need more storage
 
 ## Current Projects 🔭
 -**[Lineage]**: A website that allows you to visualize and connect with your family tree
