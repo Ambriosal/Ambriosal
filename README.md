@@ -18,9 +18,9 @@ These are some of my goals I will complete before the end of 2024!
 
 
 ## Current Projects 🔭
+-**[Lineage]**: A website that allows you to visualize and connect with your family tree
 - **[Flow Free Clone]**: A Java-based puzzle game with multiple levels and modes.
-- **[Position Perfect]**: An algorthim-driven Guess the Number game. Whoever can guess the opponent's number first wins!
-- **[Portfolio Website]**: Currently creating a personal website.
+- **[Re:Connect]**: Forgot text that person back? Haven't called someone in a while and slipped your mind? This is what this Android app is here for.
 
 
 ## 📫 Let's Connect!
